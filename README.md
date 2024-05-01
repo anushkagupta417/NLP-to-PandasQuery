@@ -23,7 +23,7 @@ This project enables non-technical users to perform data analysis by inputting n
 To run the project
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## Usage
